@@ -1,0 +1,17 @@
+# IDE Files #
+#############
+*.sublime-*
+.idea/
+.vscode/*
+
+# Caches #
+##########
+.sass-cache/
+
+# Node #
+##########
+node_modules
+
+# Logs and Databases #
+######################
+*.log
